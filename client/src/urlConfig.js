@@ -1,4 +1,4 @@
-const baseurl = "https://ecommerce-rest-sever.herokuapp.com"
+const baseurl = "https://ecoomerce-website-clone.herokuapp.com"
 
 export const API = `${baseurl}/api`
 
