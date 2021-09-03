@@ -1,7 +1,7 @@
-const baseurl = "https://ecoomerce-website-clone.herokuapp.com"
+let baseUrl = "http://localhost:5000"
 
-export const API = `${baseurl}/api`
+export const API = `${baseUrl}/api`
 
 export const generatePublicUrl = (filename) => {
-    return `${baseurl}/public/${filename}`;
+    return `${baseUrl}/public/${filename}`;
 }
