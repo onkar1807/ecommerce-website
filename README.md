@@ -1,4 +1,5 @@
-# ecommerce-website (flipkart clone)
+# Ecommerce-website (flipkart clone)
+(with Admin pannel)
 
 # React.js, Node.js, MongoDB & redux
 
