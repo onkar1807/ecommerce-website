@@ -1,4 +1,4 @@
-# Ecommerce-website (flipkart clone)
+# Ecommerce-website (flipkart clone) + Razorpay Payment Integration
 (with Admin pannel)
 
 # React.js, Node.js, MongoDB & redux
@@ -23,8 +23,7 @@
 # Orders
 ![Screenshot (233)](https://user-images.githubusercontent.com/70166293/134851996-a70a140a-124f-4aa6-be5f-aaf0a94730b3.png)
 
-# Order details
-![Screenshot (234)](https://user-images.githubusercontent.com/70166293/134852091-f23d4f9e-f9d7-41ce-846e-5c241e1cf424.png)
+# Payment details
 
 
 
